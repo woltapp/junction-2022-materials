@@ -26,7 +26,7 @@
     "phone_number": "string",
     "url": "string"
   },
-  "merchant_order_reference_id": "order-12345678",
+  "merchant_order_reference_id": null,
   "is_no_contact": true,
   "contents": [
     {
