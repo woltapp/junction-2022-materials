@@ -1,0 +1,12 @@
+{
+  "pickup": {
+    "location": {
+        "formatted_address": "Arkadiankatu 3-6"
+    }
+  },
+  "dropoff": {
+    "location": {
+        "formatted_address": "Otakaari 24, 02150 Espoo"
+    }
+  }
+}
